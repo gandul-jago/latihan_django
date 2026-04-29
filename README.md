@@ -146,7 +146,7 @@ Project ini merupakan implementasi pembelajaran Django dan Django REST Framework
 
 # ⚠️ Catatan Penting
 
-* Field `created_on` dan `last_modified` otomatis, tidak perlu di CSV
+* Field `created_on` dan `last_modified` otomatis, tapi ketika import CSV di komentarin dlu
 * ForeignKey menggunakan ID (bukan nama)
 * Nama file gambar harus sesuai dengan file di folder media
 
