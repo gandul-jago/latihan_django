@@ -1,7 +1,8 @@
 # 📘 Django POS API Project
 
 Project ini merupakan implementasi pembelajaran Django dan Django REST Framework dari Modul 1 sampai Modul 7, mencakup pembuatan API, autentikasi, pagination, filter, serta import/export data.
-
+link GDrive modul dan file csv 
+https://drive.google.com/drive/folders/1W-AIb4M_Gg8ksKje9JirWIZWkt-3cXNl?usp=sharing
 ---
 
 # 🚀 Modul 1 – Setup Project Django
